@@ -1,0 +1,45 @@
+body
+{
+    background-color: rgb(78, 108, 117);
+}
+
+#hakkinda
+{
+    color: white;
+    margin-top: 0px;
+    height: 700px;
+}
+
+#column_1
+{
+    border-right: 3px solid gray;
+    border-bottom: 3px solid gray;
+}
+
+h1
+{
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+
+p
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+#carouselExampleIndicators
+{
+    width: 350px;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+#column_2
+{
+    border-left: 3px solid gray;
+    border-bottom: 3px solid gray;
+}
