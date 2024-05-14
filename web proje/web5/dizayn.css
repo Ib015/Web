@@ -1,0 +1,22 @@
+body
+{
+    background-color: rgb(78, 108, 117);
+}
+
+#login
+{
+    background-color: rgb(169, 211, 233);
+    border-radius: 20px;
+}
+
+#hakkinda
+{
+    color: white;
+    
+}
+
+p
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
