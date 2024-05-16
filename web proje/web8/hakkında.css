@@ -1,0 +1,47 @@
+body
+{
+    background-color: rgb(78, 108, 117);
+}
+
+#hakkinda
+{
+    color: black;
+    margin-top: 0px;
+    height: 700px;
+}
+
+#column_1
+{
+    border: 3px solid gray;
+    background-color: #FFE0B5;
+    border-radius: 20px;
+}
+
+h1
+{
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+
+p
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+#carouselExampleIndicators
+{
+    width: 350px;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+#column_2
+{
+    border: 3px solid gray;
+    background-color: #FFE0B5;
+    border-radius: 20px;;
+}
