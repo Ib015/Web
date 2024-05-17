@@ -1,0 +1,62 @@
+body
+{
+    background-color: rgb(78, 108, 117);
+}
+
+header
+{
+    margin: auto;
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    border: 2px solid black;
+}
+
+#div_1
+{
+    margin: auto;
+    width: 800px;
+    background-color: white;
+    border: 2px solid black;
+}
+
+#form
+{
+    margin-top: 20px;
+}
+
+p
+{
+    font-size: 20px;
+}
+
+#text1
+{
+    margin-left: 35px;
+}
+
+#mail
+{
+    margin-left: 6px;
+}
+
+#şifre
+{
+    margin-left: 13px;
+}
+
+#reset
+{
+    margin-left: 170px;
+}
+
+#checkbox
+{
+    margin-bottom: 40px;
+}
+
+#column1
+{
+    border-right: 2px solid black;
+}

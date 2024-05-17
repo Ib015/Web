@@ -1,0 +1,81 @@
+body
+{
+    background-color: rgb(78, 108, 117);
+}
+
+#carouselExampleIndicators
+{
+    height: 400px;
+    width: 400px;
+    margin: auto;
+}
+
+#harita
+{
+    width: 400px;
+    height: 400px;
+    border: 2px solid rgb(218, 209, 38) ;
+}
+
+h1
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border-bottom: 2px solid crimson;
+}
+
+p
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+#Baslik
+{
+    margin-top: 10px;
+    margin-bottom: 100px;
+    border: 3px solid #58A399;
+    border-radius: 30px;
+    background-color: #A8CD9F;
+}
+
+#F1
+{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-bottom: 100px;
+    margin-top: 200px;
+    background-color: #C6EBC5;
+}
+#F2
+{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-bottom: 100px;
+    margin-top: 200px;
+    background-color: #A1C398;
+}
+#F3
+{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-bottom: 100px;
+    margin-top: 200px;
+    background-color: #C6EBC5;
+}
+#F4
+{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-bottom: 100px;
+    margin-top: 200px;
+    background-color: #A1C398;
+}
