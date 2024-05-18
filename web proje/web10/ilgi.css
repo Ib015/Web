@@ -1,0 +1,22 @@
+body
+{
+    background-color: rgb(78, 108, 117);
+}
+
+
+.container {
+    margin-top: 200px;
+    text-align: center;
+    background-color: rgb(23, 75, 106);
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+input, button {
+    padding: 10px;
+    margin: 5px;
+}
+.result {
+    margin-top: 20px;
+}

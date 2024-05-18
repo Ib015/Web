@@ -1,0 +1,43 @@
+body
+{
+    background-color: rgb(78, 108, 117);
+}
+
+
+h1
+{
+    font-weight: bold;
+    text-align: center;
+}
+
+#foto
+{
+    border: 3px solid #DD761C;
+    border-radius: 20px;
+    background-color: #FEB941;
+}
+
+#baslik
+{
+    display: flex;
+    justify-content: center;
+    border: 3px solid #DD761C;
+    border-radius: 20px;
+    background-color: #FEB941;
+}
+
+#resim
+{
+    height: 200px;
+    width: 250px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+p
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: whitesmoke;
+    text-align: center;
+}
